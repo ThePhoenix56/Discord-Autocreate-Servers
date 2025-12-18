@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "discord.js-selfbot-v13": "^3.6.1",
-    "https-proxy-agent": "^7.0.6",
-    "node-fetch": "^2.7.0",
-    "proxy-agent": "^6.5.0"
-  }
-}
